@@ -1,0 +1,1 @@
+Multiple items in rows of a LazyColumn. Toggle check mark by clicking on it.
